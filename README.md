@@ -1,1 +1,3 @@
-# YandexBrowserTestingTool
+# Yandex Browser Starting Tool
+
+Инструмент для удобного запуска браузера в различных конфигурациях.
