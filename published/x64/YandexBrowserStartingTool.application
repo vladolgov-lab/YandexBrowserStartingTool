@@ -14,14 +14,14 @@
     <framework targetVersion="4.7.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\YandexBrowserStartingTool_1_0_0_104\YandexBrowserStartingTool.exe.manifest" size="6392">
+    <dependentAssembly dependencyType="install" codebase="Application Files\YandexBrowserStartingTool_1_0_0_104\YandexBrowserStartingTool.exe.manifest" size="6401">
       <assemblyIdentity name="YandexBrowserStartingTool.exe" version="1.0.0.104" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="amd64" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GROBlGtNljHj5BDnLK3KBqTymuJ2hGLGdFS55NECon8=</dsig:DigestValue>
+        <dsig:DigestValue>KP125TZb+YBGaobylPT4Y5XaSpl8JqxbbKuaYwI38v0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
