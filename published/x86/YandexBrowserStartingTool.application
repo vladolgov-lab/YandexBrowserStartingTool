@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/vladolgov-lab/YandexBrowserStartingTool/master/published/x64/YandexBrowserStartingTool.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/vladolgov-lab/YandexBrowserStartingTool/master/published/x86/YandexBrowserStartingTool.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.1" profile="Full" supportedRuntime="4.0.30319" />

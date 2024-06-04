@@ -8,20 +8,20 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/vladolgov-lab/YandexBrowserStartingTool/master/published/x64/YandexBrowserStartingTool.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/vladolgov-lab/YandexBrowserStartingTool/master/published/win7/x86/YandexBrowserStartingTool.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.7.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\YandexBrowserStartingTool_1_0_0_104\YandexBrowserStartingTool.exe.manifest" size="6386">
+    <dependentAssembly dependencyType="install" codebase="Application Files\YandexBrowserStartingTool_1_0_0_104\YandexBrowserStartingTool.exe.manifest" size="6099">
       <assemblyIdentity name="YandexBrowserStartingTool.exe" version="1.0.0.104" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YxkJ7dY3eHnZdiXyd71iYM3nG2uwKmvFZBe1LU0RpSk=</dsig:DigestValue>
+        <dsig:DigestValue>ApkuRAU8QFEi5DcwuMDDUIKy9sXy6OqY80S5HVI3BMU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
